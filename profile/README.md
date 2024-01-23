@@ -1,12 +1,25 @@
-## Hi there 👋
+# UNM Early Childhood Services Center
 
-<!--
+## About
+### Our Mission
+The Early Childhood Services Center provides integrated services, support and resources to Early Childhood professionals, programs, communities, families and children.
 
-**Here are some ideas to get you started:**
+### Our Vision
+Inspiring excellence in early childhood practices to all children, families, and their communities to realize their full potential.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Our Reach
+ECSC serves early childhood educators and families throughout communities in New Mexico. We have five major regional hubs with support to satellite communities as well.
+
+* Albuquerque
+* Espanola
+* Gallup
+* Las Cruces
+* Roswell
+
+### Our Teams
+Our department supports families and professionals across the state of New Mexico through our various projects and teams:
+
+* Data & Web Services
+* Resource & Referral
+* Training and Support
+* Consultation
