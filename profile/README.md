@@ -9,17 +9,18 @@ Inspiring excellence in early childhood practices to all children, families, and
 ## Our Teams
 Our department supports families and professionals across the state of New Mexico through our various projects and teams:
 
-* Data & Web Services
-* Resource & Referral
-* Training and Support
-* Consultation
+* Web & Technology Services
+* Home Visiting Data Services
+* Training & Consultation
+* Resource & Support Hub
+* Project Development
 
 ## Our Developers
-The Data & Web Services team consists of technical analysts and programmer analysts. While most of the analysts do not write code themselves, the programmer analysts are responsible for all custom code in the ECSC department.
+The Web & Technology team consists of programmer analysts and student workers who provide all IT support for in-person operations, along with software development and web design for all web applications and services. The programmer analysts on staff are responsible for all software development in the ECSC department.
 
 * Garrett Massey - Programmer Analyst II
 * Gabriel Urbiatis - Programmer Analyst I
-* Ciane Nyambo - Graduate Student Programmer Analyst
+* Ciane Nyambo - Graduate Student Programmer Analyst (graduated, 2022)
 
 ## Our Reach
 ECSC serves early childhood educators and families throughout communities in New Mexico. We have five major regional hubs with support to satellite communities as well.
@@ -29,6 +30,3 @@ ECSC serves early childhood educators and families throughout communities in New
 * Gallup
 * Las Cruces
 * Roswell
-
-
-
